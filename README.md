@@ -1,4 +1,4 @@
-# 🇮🇳 BharatSahay AI
+# BharatSahay AI
 
 ### AI-Powered Public Information Assistant
 
